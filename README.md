@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Alfred Raju. Code name: slickerian
+# 👋 Hey there, I'm Alfred Raju. 
 
 🔧 Electronics & embedded systems enthusiast  
 🚀 Turning ideas into real-world tech using microcontrollers  
