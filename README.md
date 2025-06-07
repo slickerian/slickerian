@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm The Mechanic
+# 👋 Hey there, I'm Alfred Raju. Code name: slickerian
 
 🔧 Electronics & embedded systems enthusiast  
 🚀 Turning ideas into real-world tech using microcontrollers  
-🎯 Focused on hardware, automation, and smart systems
+🎯 Focused on hardware, automation, smart systems and cybersecurity
 
 ---
 
